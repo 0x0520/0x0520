@@ -6,8 +6,8 @@ Software Engineer Trainee
 
 Welcome to my GitHub profile! I'm enthusiastic about all kinds of tech and continually delving into the ever-evolving world of technology. I'm currently in the midst of my training, passionately exploring the realms of technology. While I have a pretty solid foundation in web technologies, I'm actively deepening my expertise in C#, Java and ABAP. The learning journey is ongoing, and I'm excited to embrace new challenges and opportunities.
 
-* 🌍  I'm based in Bavaria.
-* 🧠  I'm learning C#, Java and ABAP
+* 🌍  I'm based in Bavaria, Germany.
+* 🧠  I'm learning C#, Java and ABAP.
 * ⚡  Did you know that I enjoy turning coffee into code? ☕💻
 
 ### Skills
