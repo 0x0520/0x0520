@@ -1,1 +1,73 @@
-0x0520
+$ cat 0x0520.dat
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                                          XX
+XX   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMMMMMMMMMMssssssssssssssssssssssssssMMMMMMMMMMMMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMMMMMss'''                          '''ssMMMMMMMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMyy''                                    ''yyMMMMMMMMMMMM   XX
+XX   MMMMMMMMyy''                                            ''yyMMMMMMMM   XX
+XX   MMMMMy''                                                    ''yMMMMM   XX
+XX   MMMy'                                                          'yMMM   XX
+XX   Mh'                                                              'hM   XX
+XX   -                                                                  -   XX
+XX                                                                          XX
+XX   ::                                                                ::   XX
+XX   MMhh.        ..hhhhhh..                      ..hhhhhh..        .hhMM   XX
+XX   MMMMMh   ..hhMMMMMMMMMMhh.                .hhMMMMMMMMMMhh..   hMMMMM   XX
+XX   ---MMM .hMMMMdd:::dMMMMMMMhh..        ..hhMMMMMMMd:::ddMMMMh. MMM---   XX
+XX   MMMMMM MMmm''      'mmMMMMMMMMyy.  .yyMMMMMMMMmm'      ''mmMM MMMMMM   XX
+XX   ---mMM ''             'mmMMMMMMMM  MMMMMMMMmm'             '' MMm---   XX
+XX   yyyym'    .              'mMMMMm'  'mMMMMm'              .    'myyyy   XX
+XX   mm''    .y'     ..yyyyy..  ''''      ''''  ..yyyyy..     'y.    ''mm   XX
+XX           MN    .sMMMMMMMMMss.   .    .   .ssMMMMMMMMMs.    NM           XX
+XX           N`    MMMMMMMMMMMMMN   M    M   NMMMMMMMMMMMMM    `N           XX
+XX            +  .sMNNNNNMMMMMN+   `N    N`   +NMMMMMNNNNNMs.  +            XX
+XX              o+++     ++++Mo    M      M    oM++++     +++o              XX
+XX                                oo      oo                                XX
+XX           oM                 oo          oo                 Mo           XX
+XX         oMMo                M              M                oMMo         XX
+XX       +MMMM                 s              s                 MMMM+       XX
+XX      +MMMMM+            +++NNNN+        +NNNN+++            +MMMMM+      XX
+XX     +MMMMMMM+       ++NNMMMMMMMMN+    +NMMMMMMMMNN++       +MMMMMMM+     XX
+XX     MMMMMMMMMNN+++NNMMMMMMMMMMMMMMNNNNMMMMMMMMMMMMMMNN+++NNMMMMMMMMM     XX
+XX     yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy     XX
+XX   m  yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy  m   XX
+XX   MMm yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy mMM   XX
+XX   MMMm .yyMMMMMMMMMMMMMMMM     MMMMMMMMMM     MMMMMMMMMMMMMMMMyy. mMMM   XX
+XX   MMMMd   ''''hhhhh       odddo          obbbo        hhhh''''   dMMMM   XX
+XX   MMMMMd             'hMMMMMMMMMMddddddMMMMMMMMMMh'             dMMMMM   XX
+XX   MMMMMMd              'hMMMMMMMMMMMMMMMMMMMMMMh'              dMMMMMM   XX
+XX   MMMMMMM-               ''ddMMMMMMMMMMMMMMdd''               -MMMMMMM   XX
+XX   MMMMMMMM                    '::0x0520::'                    MMMMMMMM   XX
+XX   MMMMMMMM-                                                  -MMMMMMMM   XX
+XX   MMMMMMMMM                                                  MMMMMMMMM   XX
+XX   MMMMMMMMMy                                                yMMMMMMMMM   XX
+XX   MMMMMMMMMMy.                                            .yMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMy.                                        .yMMMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMMMy.                                    .yMMMMMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMMMMMs.                                .sMMMMMMMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMMMMMMMss.           ....           .ssMMMMMMMMMMMMMMMMMM   XX
+XX   MMMMMMMMMMMMMMMMMMMMNo         oNNNNo         oNMMMMMMMMMMMMMMMMMMMM   XX
+XX                                                                          XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+                                                                                                                    
+    000000                    000000   555555555555 2222222222      000000
+  00::::::0                 00::::::0  5::::::::::5 ::::::::::22   0::::::00
+ 0:::::::::0               0:::::::::0 5::::::::::5 ::::2222::::  0:::::::::0
+0:::::00::::0             0:::::00::::05:::55555555 2222    :::: 0::::00:::::0
+0::::0  ::::0xxxxx    xxxx0::::0  ::::05:::5                :::: 0::::  0::::0
+0:::0   0:::0 ::::   x:::x0:::0   0:::05:::5                :::: 0:::0   0:::0
+0:::0   0:::0 x:::x x:::x 0:::0   0:::05:::5555555        22:::2 0:::0   0:::0
+0:::0 000:::0  x:::x::::  0:::0 000:::05::::::::::    2222::::2  0:::000 0:::0
+0:::0 000:::0   :::::::x  0:::0 000:::055555555:::5  2::::::22   0:::000 0:::0
+0:::0   0:::0   x:::::x   0:::0   0:::0        5:::52:::2222     0:::0   0:::0
+0:::0   0:::0   x:::::x   0:::0   0:::0        5:::5::::         0:::0   0:::0
+0::::0  ::::0   :::::::x  0::::0  ::::055555   5:::5::::         0::::  0::::0
+0:::::00::::0  x:::x::::  0:::::00::::05::::555::::5::::     22220::::00:::::0
+ 0:::::::::0  x:::x x:::x  0:::::::::0  5:::::::::5 ::::22222:::2 0:::::::::0
+  00::::::0   ::::   x:::x  00::::::0    5::::::55  ::::::::::::2  0::::::00
+    000000   xxxxx    xxxx    000000      555555    2222222222222   000000
